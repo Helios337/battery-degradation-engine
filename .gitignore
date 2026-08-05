@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+dataset.csv
+battery_lstm.pt
+.venv/
+node_modules/
+.DS_Store
+.pytest_cache/
+.playwright-mcp/
